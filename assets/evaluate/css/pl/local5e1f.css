@@ -1,0 +1,60 @@
+/* General */
+
+h2, h3, h4 {
+    line-height: 1.5;
+}
+
+/* Index */
+
+.welcome-test-subheader-2 {
+    padding-top: 20px;
+}
+
+.welcome-text {
+    margin-top: 10px;
+}
+
+@media (min-width: 1200px) {
+
+    .welcome-text {
+        margin-top: 35px;
+    }
+
+    .welcome-test-subheader-2 {
+        padding-top: 40px;
+    }
+
+}
+
+/* Test */
+
+.test-header-note-1, .test-header-note-2, .test-header-note-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.test-header-note-1 {
+    bottom: 10px;
+}
+
+.test-header-note-2, .test-header-note-3 {
+    bottom: 0;
+}
+
+/* Test results */
+
+.progress-bar-caption {
+    font-size: 0.6em;;
+}
+
+@media (min-width: 600px) {
+
+    .progress-bar-caption {
+        font-size: 0.7em;;
+    }
+
+}
+
+.progress-bar-percentage-left, .progress-bar-percentage-right {
+    padding-top: 11px;
+}

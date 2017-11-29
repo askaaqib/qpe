@@ -1,0 +1,27 @@
+/* General */
+
+h2, h3, h4 {
+    line-height: 1.5;
+}
+
+/* Index */
+
+@media (min-width: 1200px) {
+
+    .welcome-text {
+        margin-top: 35px;
+    }
+
+}
+
+/* Test */
+
+.test-header-note-1 {
+    bottom: 10px;
+}
+
+/* Test results */
+
+.progress-bar-caption {
+    font-size: 0.7em;;
+}

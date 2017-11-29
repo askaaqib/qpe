@@ -1,0 +1,59 @@
+/* General */
+
+body {
+    font-size: 21px;
+}
+
+p {
+    line-height: 2;
+}
+
+.navbar {
+    font-size: 0.9em;
+
+}
+
+#main-navbar a {
+    font-weight: 500;
+    letter-spacing: normal;
+}
+
+/* Start page */
+
+.welcome-text {
+    font-size: 0.9em;
+}
+
+/* Test */
+
+.test-header-note-1 {
+    bottom: 10px;
+}
+
+.ui-slider .ui-slider-handle {
+    font-size: 0.9em;
+}
+
+/* Test results */
+
+.progress-bar-caption {
+    font-size: 0.7em;
+}
+
+@media (min-width: 1200px) {
+
+    .progress-bar-caption {
+        font-size: 0.9em;
+    }
+
+}
+
+.test-results-trait-caption {
+    margin-bottom: 5px;
+}
+
+/* Social */
+
+.social-count .number {
+    font-size: 2.1em;
+}

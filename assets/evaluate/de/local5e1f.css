@@ -1,0 +1,101 @@
+/* General */
+
+h1, h2, h3, h4, h5 {
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 1.2em;
+}
+
+h2, .type-chart .col-md-12 h2 {
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+@media (min-width: 600px) {
+
+    h1 {
+        font-size: 1.7em;
+    }
+
+    h2, .type-chart .col-md-12 h2 {
+        font-size: 1.7em;
+    }
+
+}
+
+/* Index */
+
+.welcome-test-subheader-2 {
+    padding-top: 20px;
+}
+
+.welcome-text {
+    margin-top: 5px;
+}
+
+@media (min-width: 500px) {
+
+    .welcome-text {
+        margin-top: 30px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+    .welcome-text {
+        margin-top: 35px;
+    }
+
+}
+
+/* Test */
+
+.test-header-note-1 {
+    bottom: 10px;
+}
+
+.test-header-note-2 {
+    bottom: 0;
+}
+
+.progress-bar-percentage-left, .progress-bar-percentage-right {
+    padding-top: 10px;
+}
+
+/* Test results */
+
+.progress-bar-caption {
+    font-size: 0.6em;;
+}
+
+@media (min-width: 600px) {
+
+    .progress-bar-caption {
+        font-size: 0.8em;;
+    }
+
+}
+
+@media (max-width: 1010px) {
+
+    .test-results-caption {
+        font-size: 1.7em;
+    }
+
+    .test-results-nicetype {
+        font-size: 2em;
+        font-weight: bold;
+    }
+
+    .test-results-type {
+        font-size: 1.5em;
+    }
+
+}

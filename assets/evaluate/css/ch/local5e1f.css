@@ -1,0 +1,9 @@
+/* Test */
+
+.test-header-note-1, .test-header-note-3 {
+    bottom: 13px;
+}
+
+.test-header-note-2 {
+    bottom: 0;
+}

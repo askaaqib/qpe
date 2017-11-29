@@ -1,0 +1,11 @@
+/* General */
+
+p {
+    line-height: 2;
+}
+
+/* Test results */
+
+.test-results-trait-caption {
+    margin-bottom: 5px;
+}

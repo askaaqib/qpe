@@ -1,0 +1,14 @@
+/* General */
+
+h2, h3, h4 {
+    line-height: 1.5;
+}
+
+/* Index */
+@media (min-width: 1200px) {
+
+    .welcome-text {
+        margin-top: 25px;
+    }
+
+}

@@ -1,0 +1,65 @@
+/* General */
+
+h2, h3, h4 {
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 1.3em;
+}
+
+h2, .type-chart .col-md-12 h2 {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+@media (min-width: 600px) {
+
+    h1 {
+        font-size: 1.7em;
+    }
+
+    h2, .type-chart .col-md-12 h2 {
+        font-size: 1.7em;
+    }
+
+}
+
+/* Index */
+
+.homepage-cta-button-center {
+    font-size: 1em;
+}
+
+@media (min-width: 600px) {
+
+    .homepage-cta-button-center {
+        font-size: 1.3em;
+    }
+
+}
+
+/* Test */
+
+.test-header-note-1, .test-header-note-2, .test-header-note-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.test-header-note-2 {
+    bottom: 22px;
+}
+
+/* Test results */
+
+.progress-bar-caption {
+    font-size: 0.6em;;
+}
+
+@media (min-width: 600px) {
+
+    .progress-bar-caption {
+        font-size: 0.8em;;
+    }
+
+}

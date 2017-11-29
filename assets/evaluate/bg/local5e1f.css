@@ -1,0 +1,57 @@
+/* General */
+
+h2, h3, h4 {
+    line-height: 1.5;
+}
+
+/* Index */
+@media (min-width: 1200px) {
+
+    .welcome-text {
+        margin-top: 15px;
+    }
+
+}
+
+/* Test */
+
+.test-header-note-1, .test-header-note-2, .test-header-note-3 {
+    padding: 0 15px;
+    bottom: 10px;
+}
+
+.test-header-note-2 {
+    bottom: 0;
+}
+
+/* Test results */
+
+
+
+@media (max-width: 760px) {
+
+    .welcome-test-header {
+        font-size: 1.1em;
+    }
+
+    .welcome-test-subheader {
+        font-size: 0.9em;
+    }
+
+    .homepage-cta-button-center {
+        font-size: 1.1em;
+    }
+
+    .test-results-caption {
+        font-size: 1.5em;
+    }
+
+    .test-results-nicetype {
+        font-size: 2em;
+    }
+
+}
+
+.progress-bar-percentage-left, .progress-bar-percentage-right {
+    padding-top: 13px;
+}

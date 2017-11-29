@@ -1,0 +1,11 @@
+/* General */
+
+h2, h3, h4 {
+    line-height: 1.5;
+}
+
+/* Test results */
+
+.progress-bar-caption {
+    font-size: 0.7em;;
+}

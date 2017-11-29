@@ -1,0 +1,77 @@
+/* Global */
+
+p, h1, h2, h3, h4, h5, ul:not(.nav), .nav a, .footer a, table, blockquote, .btn span:not(.fa), .test-header-note-1, .test-question-text, .test-question-answer-left, .test-question-answer-right, .test-results-caption, .test-results-trait-caption, .progress-bar-caption, .description-title, .description-pullout, .celebrity-list, .more-cta, .type-snippet, .type-table, .welcome-test-header, .welcome-test-subheader, .welcome-test-subheader-2, #welcome-quote, input, textarea, .comment-publish, .test-header-note-1, .test-header-note-2, .test-header-note-3, ol > li {
+    direction: rtl;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.9em;
+}
+
+h3 {
+    font-size: 1.6em;
+}
+
+h4 {
+    font-size: 1.3em;
+}
+
+.type-chart h4 {
+    font-size: 1.1em;
+}
+
+h5 {
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.btn span {
+    display: inline-block;
+}
+
+/* Test */
+
+.test-header-note-1 {
+    bottom: 10px;
+}
+
+.test-question-answer-right {
+    text-align: left;
+}
+
+/* Test results */
+
+.progress-bar-caption {
+    text-align: left;
+}
+
+.progress-bar-caption.text-right {
+    text-align: right;
+}
+
+/* Type descriptions */
+
+.description-pullout {
+    border-left: none;
+    border-right: 14px solid #704C60;
+}
+
+.comments-section #comment-tabs li a .fa, .comments-section #comment-tabs li a img {
+    margin-left: 5px;
+}
+
+/* Theory */
+
+.type-table {
+    float: right;
+}
+
+/* Contact page */
+
+.contact-email-link-wrapper {
+    text-align: right;
+}

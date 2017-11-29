@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+    <head>
+		<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="" />
+<meta name="author" content="">
+<meta property="fb:app_id" content="326516237427150"/>
+
+
+<title>
+
+
+    Oops!
+
+
+ | 16Personalities</title>
+
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicons/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/images/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="https://www.16personalities.com/css/vendors-v1.css?vx=2">
+<link rel="stylesheet" href="https://www.16personalities.com/css/16p-all-v3.css?v=5">
+
+
+    <link rel="canonical" href="https://www.16personalities.com/css/cs/localcss" />
+
+
+
+
+
+<script>
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-27031617-1', 'auto');
+
+</script>
+
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+    </head>
+
+    <body role="document">
+
+	<div id="fb-root"></div>
+
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '326516237427150',
+          xfbml      : true,
+          version    : 'v2.7'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+        <div class="main-wrapper">
+
+            <div class="navbar navbar-default navbar-static-top homepage-navbar">
+    <div class="container">
+        <div class="row">
+
+            <a href="https://www.16personalities.com" class="logo">
+                <img src="/images/logo.svg" alt="16Personalities">
+            </a>
+
+            <nav class="navigation">
+
+                
+                    <a class="nav-item login-links" href="#" data-toggle="modal" data-target="#login-dialog">Log in</a>
+
+                    
+                        <a class="nav-item language shown" href="https://www.16personalities.com/languages"><span class="language-text">English</span> <span class="f16 f16-globe"></span></a>
+
+                        <a href="https://www.16personalities.com/free-personality-test" class="nav-item btn btn-sm btn-action test-button">Take the test</a>
+
+                    
+                
+                <a id="mobile-menu-switch" href="#" class="nav-item"><span class="fa fa-bars"></span></a>
+
+            </nav>
+
+            <div id="mobile-navigation" class="mobile-navigation">
+                <nav>
+
+                    
+                        <div class="divider">What is your personality type?</div>
+                        <a href="https://www.16personalities.com/free-personality-test" class="menu-item">Take the Test</a>
+                        <a href="#" data-toggle="modal" data-target="#login-dialog" class="menu-item">Log In</a>
+
+                        <div class="divider">Descriptions and studies</div>
+                        <a href="https://www.16personalities.com/personality-types" class="menu-item">Personality Types</a>
+                        <a href="https://www.16personalities.com/premium-profiles" class="menu-item premium">Premium Profiles</a>
+                        <a href="https://www.16personalities.com/articles" class="menu-item">Studies and Articles</a>
+
+                        <div class="divider">Additional functionality</div>
+                        <a href="https://www.16personalities.com/members-area" class="menu-item">Members Area</a>
+
+                        <div class="divider">Help and preferences</div>
+                        <a href="https://www.16personalities.com/languages" class="menu-item">Languages</a>
+                        <a href="https://www.16personalities.com/terms" class="menu-item">Terms & Conditions</a>
+                        <a href="https://www.16personalities.com/contact-us" class="menu-item">Contact Us</a>
+
+                    
+                </nav>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 homepage-navigation-wrapper">
+            <div class="collapse navbar-collapse homepage-navigation" role="navigation" id="main-navbar">
+                <ul class="nav nav-pills nav-justified">
+
+                    
+                        <li><a href="https://www.16personalities.com/free-personality-test">TAKE THE TEST</a></li>
+                        <li><a href="https://www.16personalities.com/personality-types">PERSONALITY TYPES</a></li>
+                        <li><a href="https://www.16personalities.com/premium-profiles">PREMIUM PROFILES</a></li>
+                        <li><a href="https://www.16personalities.com/members-area">MEMBERS AREA</a></li>
+
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="modal fade" id="login-dialog" tabindex="-1" role="dialog" aria-labelledby="loginDialogLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h2 class="modal-title" id="loginDialogLabel">Members Login</h2>
+                </div>
+                <div class="modal-body login-section">
+                    <form>
+                        <input type="hidden" name="_token" value="Jn1mSnvqiB6zUgi6TpaKqTLLqFhHW2WrawNmNPns">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Log in to your account below:</p>
+                                <div class="login-fields">
+                                    <input class="email" name="email" placeholder="E-mail address" type="email">
+                                </div>
+                                <div class="login-fields">
+                                    <input class="password" name="password" placeholder="Password" type="password">
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="alert alert-danger login-alert"></div>
+                </div>
+                <div class="modal-body reminder-section">
+                    <form>
+                        <input type="hidden" name="_token" value="Jn1mSnvqiB6zUgi6TpaKqTLLqFhHW2WrawNmNPns">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p>Enter your e-mail address to receive a reset link.</p>
+                                <div class="login-fields">
+                                    <input class="email" name="email" placeholder="E-mail address" type="text">
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="alert alert-danger reminder-alert"></div>
+                </div>
+                <div class="modal-footer">
+                    <div class="col-md-6 password-link-wrapper">
+                        <a href="#" class="forgot-password">Forgot password?</a>
+                    </div>
+                    <div class="col-md-6 no-right-padding">
+                        <button type="button" class="btn btn-lg btn-action-2 login-button"><span>Log in</span></button>
+                    </div>
+                    <div class="col-md-12 membership-note">
+                        <p>Not a member yet? <a href="https://www.16personalities.com/free-personality-test">Take our personality test</a> and join in the results screen!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-12 min-height-wrapper nosidebar-article-wrapper">
+
+                        
+                            
+                            <h1 class="main-headline">
+                                                            </h1>
+
+                        
+                        
+    <main class="error-page">
+
+        <div class="error-illustration-wrapper">
+            <img src="/images/system/404-16personalities.png">
+        </div>
+
+        <div class="error-suggestion-list">
+
+            <h2>Oops. This page doesn’t exist! Let’s see what we can offer you:</h2>
+
+            <a href="https://www.16personalities.com/free-personality-test">
+                <button class="btn btn-action btn-lg"><span>Personality test?</span></button>
+            </a>
+            <a href="https://www.16personalities.com/personality-types">
+                <button class="btn btn-action-2 btn-lg"><span>Type descriptions?</span></button>
+            </a>
+            <a href="https://www.16personalities.com/contact-us">
+                <button class="btn btn-action-3 btn-lg"><span>Contact details?</span></button>
+            </a>
+
+        </div>
+
+    </main>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="push"></div>
+
+        </div>
+
+        <div class="container" style="padding: 0;">
+
+            <input type="hidden" id="_token" value="Jn1mSnvqiB6zUgi6TpaKqTLLqFhHW2WrawNmNPns">
+<footer id="footer">
+    <div class="row">
+
+        <div class="footer-section logo-part col-md-3">
+            <a href="https://www.16personalities.com" class="logo"><img src="/images/logo.svg" alt="16Personalities"></a>
+            <p>Get a concrete, accurate description of who you are and why you do things the way you do, for free.</p>
+            <a href="https://www.16personalities.com/free-personality-test" class="btn btn-action-2">Take a free test</a>
+        </div>
+
+        <div class="footer-section col-xs-12 col-sm-6 col-md-3">
+            <h4>
+                <a href="https://www.16personalities.com/articles" title="Articles">Articles</a>
+            </h4>
+            <nav class="highlighted">
+                                    <a href="/articles/two-kinds-of-perfectionism-and-how-they-might-affect-you">Two Kinds of Perfectionism and How They Might Affect You</a>
+                                    <a href="/articles/a-halloween-guide-to-the-zombie-apocalypse">A Halloween Guide to the Zombie Apocalypse</a>
+                                    <a href="/articles/when-the-need-to-connect-becomes-terrifying-the-dilemma-of-the-shy-extravert">When the Need to Connect Becomes Terrifying: The Dilemma of the Shy Extravert</a>
+                                    <a href="/articles/the-mystery-of-the-talkative-introvert">The Mystery of the Talkative Introvert</a>
+                                    <a href="/articles/angels-and-devils-judging-our-own-thoughts-by-personality-type">Angels and Devils: Judging Our Own Thoughts by Personality Type</a>
+                            </nav>
+        </div>
+
+        <div class="footer-section col-xs-12 col-sm-6 col-md-3">
+            <h4>
+                <a href="https://www.16personalities.com/research" title="Theory and Research">Theory and Research</a>
+            </h4>
+            <nav class="highlighted">
+                <a href="/articles/our-theory">Our Theory</a>
+                <a href="/country-profiles">Country Profiles</a>
+                <a href="https://www.16personalities.com/research/surveys">Surveys</a>
+            </nav>
+        </div>
+
+        <div class="footer-section col-xs-12 col-sm-12 col-md-3">
+            <h4>Useful</h4>
+            <nav>
+                <a href="https://www.16personalities.com/contact-us">Contact</a>
+                <a href="https://www.16personalities.com/terms">Terms & Conditions</a>
+                <a href="https://www.16personalities.com/terms/privacy">Privacy Policy</a>
+                <a href="https://www.facebook.com/16Personalities">Facebook</a>
+                <a href="https://twitter.com/16Personalities">Twitter</a>
+            </nav>
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-sm-6 copyright">
+            ©2011-2016 NERIS Analytics Limited
+        </div>
+        <div class="col-sm-6 last stats">
+            <span>54,648,211</span> Tests taken so far
+        </div>
+
+    </div>
+</footer>
+
+<script src="https://www.16personalities.com/js/footer-vendors-v1.js?v=1"></script>
+<script src="https://www.16personalities.com/js/16p-core.js?v=3"></script>
+        </div>
+
+        
+        
+        <script>
+
+            
+                ga('send', 'pageview');
+
+            
+        </script>
+
+    </body>
+</html>

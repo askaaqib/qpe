@@ -1,0 +1,21 @@
+/* Test */
+
+.test-header-note-2 {
+    bottom: 0;
+}
+
+@media (min-width: 530px) {
+
+    .test-question-answer-left, .test-question-answer-right {
+        padding-top: 10px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+    .test-question-answer-left, .test-question-answer-right {
+        padding-top: 5px;
+    }
+
+}

@@ -1,0 +1,53 @@
+/* General */
+
+h2, h3, h4 {
+    line-height: 1.5;
+}
+
+/* Index */
+
+@media (min-width: 1200px) {
+
+    .welcome-text {
+        margin-top: 35px;
+    }
+
+}
+
+/* Test */
+
+.test-header-note-1 {
+    bottom: 10px;
+}
+
+/* Test results */
+
+
+
+@media (max-width: 760px) {
+
+    .test-results-caption {
+        font-size: 1.5em;
+    }
+
+    .test-results-nicetype {
+        font-size: 2em;
+    }
+
+}
+
+.progress-bar-caption {
+    font-size: 0.8em;;
+}
+
+.progress-bar-percentage-left, .progress-bar-percentage-right {
+    padding-top: 11px;
+}
+
+@media only screen and (max-width: 420px) {
+
+    .progress-bar-caption {
+        font-size: 0.7em;;
+    }
+
+}

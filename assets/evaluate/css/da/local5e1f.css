@@ -1,0 +1,13 @@
+/* Test results */
+
+.progress-bar-caption {
+    font-size: 0.8em;;
+}
+
+@media (min-width: 600px) {
+
+    .progress-bar-caption {
+        font-size: 1em;;
+    }
+
+}
